@@ -13,6 +13,9 @@
 @end
 
 @implementation ViewController
+- (IBAction)btnPressed:(UIButton *)sender {
+    
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
